@@ -1,0 +1,21 @@
+_repo: Verdun-Argonne-Metz-1914-1918_48185
+creator:
+  author:
+    agent_name: Michelin & Cie
+    gutenberg_agent_id: '44747'
+    url: http://www.gutenberg.org/2009/agents/44747
+description: ''
+gutenberg_issued: '2015-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Michelin's Illustrated Guides to the Battle-fields (1914-1918)
+subjects:
+- !lcsh 'World War, 1914-1918 -- Battlefields'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France'
+title: Verdun Argonne-Metz 1914-1918
+url: http://www.gutenberg.org/ebooks/48185
