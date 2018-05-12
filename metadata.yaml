@@ -1,10 +1,16 @@
 _repo: Verdun-Argonne-Metz-1914-1918_48185
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48185-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Michelin & Cie
     gutenberg_agent_id: '44747'
     url: http://www.gutenberg.org/2009/agents/44747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48185#Verdun-Argonne-Metz-1914-1918
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
